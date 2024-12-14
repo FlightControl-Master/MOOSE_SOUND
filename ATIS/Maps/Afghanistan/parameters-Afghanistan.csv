@@ -1,0 +1,16 @@
+text;filename;subtitle;voice;highpass;lowpass;nfilter;volume;noise;emphasis;rate;pitch;clickin;clickout;duration
+Farah Airport;Farah;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.83
+Chaghcharan Airport;Chaghcharan;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.1
+Bost Airport;Bost;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.67
+Shindand Airport;Shindand;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.92
+Shindand Heliport;Shindand Heliport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.04
+Qala i Naw Airport;Qala i Naw;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.32
+Tarinkot Airport;Tarinkot;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+Maymana Zahiraddin Faryabi Airport;Maymana Zahiraddin Faryabi;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;2.66
+Nimroz Airport;Nimroz;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.91
+Camp Bastion Heliport;Camp Bastion Heliport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.22
+Kandahar Heliport;Kandahar Heliport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.12
+Kandahar Airport;Kandahar;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.09
+Dwyer Airport;Dwyer;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.81
+Herat Airport;Herat;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.82
+Camp Bastion Airport;Camp Bastion;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.16

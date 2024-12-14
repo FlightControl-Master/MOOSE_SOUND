@@ -1,0 +1,14 @@
+text;filename;subtitle;voice;highpass;lowpass;nfilter;volume;noise;emphasis;rate;pitch;clickin;clickout;duration
+Baghdad International Airport;Baghdad International Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.85
+Sulaimaniyah International Airport;Sulaimaniyah International Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;2.42
+Al-Sahra Airport;Al-Sahra Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.08
+Erbil International Airport;Erbil International Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.84
+Al-Taji Airport;Al-Taji Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.1
+Al-Asad Airbase Airport;Al-Asad Airbase;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.57
+Bashur Airport;Bashur Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.83
+Balad Airbase Airport;Balad Airbase;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.33
+Kirkuk International Airport;Kirkuk International Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.88
+Qayyarah Airfield West;Qayyarah Airfield West;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.4
+Al-Salam Airbase Airport;Al-Salam Airbase;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.55
+Al-Taquddum Airport;Al-Taquddum Airport;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.22
+K1 Base;K1 Base;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.95

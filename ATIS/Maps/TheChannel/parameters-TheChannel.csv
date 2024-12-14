@@ -1,0 +1,13 @@
+text;filename;subtitle;voice;highpass;lowpass;nfilter;volume;noise;emphasis;rate;pitch;clickin;clickout;duration
+Dunkirk Mardyck Airport;Dunkirk Mardyck;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.35
+Manston Airport;Manston;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.94
+High Halden Airport;High Halden;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+Abbeville Drucat Airport;Abbeville Drucat;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.49
+Saint Omer Longuenesse Airport;Saint Omer Longuenesse;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.74
+Detling Airport;Detling;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.8
+Biggin Hill Airport;Biggin Hill;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.08
+Hawkinge Airport;Hawkinge;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.93
+Merville Calonne Airport;Merville Calonne;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.31
+Eastchurch Airport;Eastchurch;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.93
+Lympne Airport;Lympne;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.71
+Headcorn Airport;Headcorn;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96

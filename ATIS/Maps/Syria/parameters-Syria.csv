@@ -1,0 +1,71 @@
+text;filename;subtitle;voice;highpass;lowpass;nfilter;volume;noise;emphasis;rate;pitch;clickin;clickout;duration
+Kuweires Airport;Kuweires;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.05
+Hatzor Airport;Hatzor;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Incirlik Airport;Incirlik;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+King Abdullah II Airport;King Abdullah II;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.93
+Akrotiri Airport;Akrotiri;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.2
+Aleppo Airport;Aleppo;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.0
+Abu al-Duhur Airport;Abu al-Duhur;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.52
+Adana Sakirpasa Airport;Adana Sakirpasa;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.84
+Paphos Airport;Paphos;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.89
+At Tanf Airport;At Tanf;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.02
+Tal Siman Airport;Tal Siman;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.16
+Pinarbashi Airport;Pinarbashi;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.25
+Muwaffaq Salti Airport;Muwaffaq Salti;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.55
+Naqoura Airport;Naqoura;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.07
+Gaziantep Airport;Gaziantep;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.21
+Al Qusayr Airport;Al Qusayr;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.23
+Al-Dumayr Airport;Al-Dumayr;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.25
+Kingsfield Airport;Kingsfield;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Marj as Sultan North Airport;Marj as Sultan North;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.52
+Beirut-Rafic Hariri Airport;Beirut-Rafic Hariri;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;2.0
+Minakh Airport;Minakh;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.9
+Hama Airport;Hama;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.8
+Eyn Shemer Airport;Eyn Shemer;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.56
+Kharab Ishk Airport;Kharab Ishk;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.36
+Amman Airport;Amman;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.85
+Deir ez-Zor Airport;Deir ez-Zor;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.41
+Palmashim Airport;Palmashim;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.12
+Taftanaz Airport;Taftanaz;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.04
+Damascus Airport;Damascus;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.02
+Gazipasa Airport;Gazipasa;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.24
+Herzliya Airport;Herzliya;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.23
+An Nasiriyah Airport;An Nasiriyah;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.47
+Tiyas Airport;Tiyas;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.86
+Tel Nof Airport;Tel Nof;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.26
+Ben Gurion Airport;Ben Gurion;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.28
+Lakatamia Airport;Lakatamia;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.4
+Wujah Al Hajar Airport;Wujah Al Hajar;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.54
+Tha'lah Airport;Tha'lah;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.86
+Haifa Airport;Haifa;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.83
+Khalkhalah Airport;Khalkhalah;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.02
+Jirah Airport;Jirah;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.8
+Tabqa Airport;Tabqa;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.9
+Rayak Airport;Rayak;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.82
+Rosh Pina Airport;Rosh Pina;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.09
+Mezzeh Airport;Mezzeh;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.79
+Gecitkale Airport;Gecitkale;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.07
+Sanliurfa Airport;Sanliurfa;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.22
+H Airport;H;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.83
+Ruwayshid Airport;Ruwayshid;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+H3 Northwest Airport;H3 Northwest;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.38
+Sayqal Airport;Sayqal;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.97
+Rene Mouawad Airport;Rene Mouawad;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.41
+Shayrat Airport;Shayrat;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Ramat David Airport;Ramat David;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.24
+Marj Ruhayyil Airport;Marj Ruhayyil;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.36
+Nicosia Airport;Nicosia;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.18
+H3 Southwest Airport;H3 Southwest;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.44
+Megiddo Airport;Megiddo;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Palmyra Airport;Palmyra;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.04
+H3 Airport;H3;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Qabr as Sitt Airport;Qabr as Sitt;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.3
+Prince Hassan Airport;Prince Hassan;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.13
+Hatay Airport;Hatay;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.91
+King Hussein Air College Airport;King Hussein Air College;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.78
+Ercan Airport;Ercan;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.85
+Kiryat Shmona Airport;Kiryat Shmona;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.53
+Larnaca Airport;Larnaca;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.03
+Marj as Sultan South Airport;Marj as Sultan South;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.59
+Bassel Al-Assad Airport;Bassel Al-Assad;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.52
+H4 Airport;H4;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.89

@@ -1,0 +1,28 @@
+text;filename;subtitle;voice;highpass;lowpass;nfilter;volume;noise;emphasis;rate;pitch;clickin;clickout;duration
+O'Higgins Airport;O'Higgins;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.09
+Puerto Natales Airport;Puerto Natales;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.53
+Comandante Luis Piedrabuena Airport;Comandante Luis Piedrabuena;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;2.51
+Tolhuin Airport;Tolhuin;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.85
+Gull Point Airport;Gull Point;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.9
+Goose Green Airport;Goose Green;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Ushuaia Helo Port Airport;Ushuaia Helo Port;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.71
+Ushuaia Airport;Ushuaia;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.99
+Cullen Airport;Cullen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.81
+Rio Chico Airport;Rio Chico;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.22
+San Carlos FOB Airport;San Carlos FOB;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.48
+Pampa Guanaco Airport;Pampa Guanaco;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.51
+Mount Pleasant Airport;Mount Pleasant;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+Puerto Williams Airport;Puerto Williams;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.36
+Rio Grande Airport;Rio Grande;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.24
+Hipico Flying Club Airport;Hipico Flying Club;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.73
+Almirante Schroeders Airport;Almirante Schroeders;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.7
+Rio Gallegos Airport;Rio Gallegos;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.46
+San Julian Airport;San Julian;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.26
+Punta Arenas Airport;Punta Arenas;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.51
+Rio Turbio Airport;Rio Turbio;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.43
+El Calafate Airport;El Calafate;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.46
+Gobernador Gregores Airport;Gobernador Gregores;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.71
+Puerto Santa Cruz Airport;Puerto Santa Cruz;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.53
+Franco Bianco Airport;Franco Bianco;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.51
+Porvenir Airport;Porvenir;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.06
+Port Stanley Airport;Port Stanley;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.13
