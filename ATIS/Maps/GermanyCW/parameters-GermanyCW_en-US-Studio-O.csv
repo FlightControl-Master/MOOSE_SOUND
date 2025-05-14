@@ -1,0 +1,202 @@
+text;filename;subtitle;voice;highpass;lowpass;nfilter;volume;noise;emphasis;rate;pitch;clickin;clickout;duration
+Airracing Frankfurt Airport;Airracing Frankfurt;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.52
+Airracing Koblenz Airport;Airracing Koblenz;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.52
+Airracing Lübeck Airport;Airracing Lubeck;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.47
+Allstedt Airport;Allstedt;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.92
+Altes Lager Airport;Altes Lager;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.29
+Bad Dürkheim Airport;Bad Durkheim;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.12
+Barth Airport;Barth;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.73
+Bienenfarm Airport;Bienenfarm;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.07
+Bindersleben Airport;Bindersleben;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.25
+Bitburg Airport;Bitburg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.87
+Braunschweig Airport;Braunschweig;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Bremen Airport;Bremen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.82
+Briest Airport;Briest;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.84
+Büchel Airport;Buchel;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.86
+Bückeburg Airport;Buckeburg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.82
+Celle Airport;Celle;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.84
+Cochstedt Airport;Cochstedt;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Damgarten Airport;Damgarten;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.08
+Dedelow Airport;Dedelow;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.98
+Dessau Airport;Dessau;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Fassberg Airport;Fassberg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Finow Airport;Finow;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Frankfurt Airport;Frankfurt;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.92
+Fritzlar Airport;Fritzlar;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.9
+Fulda Airport;Fulda;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.89
+Gardelegen Airport;Gardelegen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.28
+Garz Airport;Garz;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.73
+Gatow Airport;Gatow;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.92
+Gelnhausen Airport;Gelnhausen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.21
+Giebelstadt Airport;Giebelstadt;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.09
+Glindbruchkippe  Airport;Glindbruchkippe ;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.31
+Gross Mohrdorf Airport;Gross Mohrdorf;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.15
+Grosse Wiese Airport;Grosse Wiese;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.93
+Gütersloh Airport;Gutersloh;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.02
+Heliport of the Federal Republic of Germany 01;H FRG 01;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.33
+Heliport of the Federal Republic of Germany 02;H FRG 02;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.33
+Heliport of the Federal Republic of Germany 03;H FRG 03;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.33
+Heliport of the Federal Republic of Germany 04;H FRG 04;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.35
+Heliport of the Federal Republic of Germany 05;H FRG 05;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.36
+Heliport of the Federal Republic of Germany 06;H FRG 06;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.38
+Heliport of the Federal Republic of Germany 07;H FRG 07;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.53
+Heliport of the Federal Republic of Germany 08;H FRG 08;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.28
+Heliport of the Federal Republic of Germany 09;H FRG 09;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.33
+Heliport of the Federal Republic of Germany 10;H FRG 10;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.23
+Heliport of the Federal Republic of Germany 11;H FRG 11;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.59
+Heliport of the Federal Republic of Germany 12;H FRG 12;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.42
+Heliport of the Federal Republic of Germany 13;H FRG 13;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.33
+Heliport of the Federal Republic of Germany 14;H FRG 14;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.34
+Heliport of the Federal Republic of Germany 15;H FRG 15;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.41
+Heliport of the Federal Republic of Germany 16;H FRG 16;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.34
+Heliport of the Federal Republic of Germany 17;H FRG 17;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.66
+Heliport of the Federal Republic of Germany 18;H FRG 18;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.47
+Heliport of the Federal Republic of Germany 19;H FRG 19;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.46
+Heliport of the Federal Republic of Germany 20;H FRG 20;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.51
+Heliport of the Federal Republic of Germany 21;H FRG 21;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.73
+Heliport of the Federal Republic of Germany 23;H FRG 23;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.68
+Heliport of the Federal Republic of Germany 25;H FRG 25;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.68
+Heliport of the Federal Republic of Germany 27;H FRG 27;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.86
+Heliport of the Federal Republic of Germany 30;H FRG 30;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.26
+Heliport of the Federal Republic of Germany 31;H FRG 31;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.51
+Heliport of the Federal Republic of Germany 32;H FRG 32;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.5
+Heliport of the Federal Republic of Germany 34;H FRG 34;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.58
+Heliport of the Federal Republic of Germany 38;H FRG 38;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.44
+Heliport of the Federal Republic of Germany 39;H FRG 39;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.48
+Heliport of the Federal Republic of Germany 40;H FRG 40;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.31
+Heliport of the Federal Republic of Germany 41;H FRG 41;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.49
+Heliport of the Federal Republic of Germany 42;H FRG 42;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.45
+Heliport of the Federal Republic of Germany 43;H FRG 43;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.51
+Heliport of the Federal Republic of Germany 44;H FRG 44;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.52
+Heliport of the Federal Republic of Germany 45;H FRG 45;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.56
+Heliport of the Federal Republic of Germany 46;H FRG 46;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.59
+Heliport of the Federal Republic of Germany 47;H FRG 47;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.73
+Heliport of the Federal Republic of Germany 48;H FRG 48;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.55
+Heliport of the Federal Republic of Germany 49;H FRG 49;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.49
+Heliport of the Federal Republic of Germany 50;H FRG 50;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.44
+Heliport of the Federal Republic of Germany 51;H FRG 51;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.51
+Heliport of the German Democratic Republic 01;H GDR 01;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.03
+Heliport of the German Democratic Republic 02;H GDR 02;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.06
+Heliport of the German Democratic Republic 03;H GDR 03;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.05
+Heliport of the German Democratic Republic 04;H GDR 04;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.06
+Heliport of the German Democratic Republic 05;H GDR 05;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.12
+Heliport of the German Democratic Republic 06;H GDR 06;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.13
+Heliport of the German Democratic Republic 07;H GDR 07;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.27
+Heliport of the German Democratic Republic 08;H GDR 08;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;2.99
+Heliport of the German Democratic Republic 09;H GDR 09;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.06
+Heliport of the German Democratic Republic 10;H GDR 10;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.08
+Heliport of the German Democratic Republic 11;H GDR 11;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.33
+Heliport of the German Democratic Republic 12;H GDR 12;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;2.94
+Heliport of the German Democratic Republic 13;H GDR 13;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.05
+Heliport of the German Democratic Republic 14;H GDR 14;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.03
+Heliport of the German Democratic Republic 15;H GDR 15;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.16
+Heliport of the German Democratic Republic 16;H GDR 16;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.06
+Heliport of the German Democratic Republic 17;H GDR 17;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.23
+Heliport of the German Democratic Republic 18;H GDR 18;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.06
+Heliport of the German Democratic Republic 19;H GDR 19;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.12
+Heliport of the German Democratic Republic 21;H GDR 21;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.39
+Heliport of the German Democratic Republic 22;H GDR 22;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.37
+Heliport of the German Democratic Republic 24;H GDR 24;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.39
+Heliport of the German Democratic Republic 25;H GDR 25;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.42
+Heliport of the German Democratic Republic 26;H GDR 26;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.38
+Heliport of the German Democratic Republic 30;H GDR 30;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.08
+Heliport of the German Democratic Republic 31;H GDR 31;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.21
+Heliport of the German Democratic Republic 32;H GDR 32;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.3
+Heliport of the German Democratic Republic 33;H GDR 33;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.08
+Heliport of the German Democratic Republic 34;H GDR 34;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.28
+Medical Heliport of the Federal Republic of Germany 01;H Med FRG 01;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.91
+Medical Heliport of the Federal Republic of Germany 02;H Med FRG 02;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.9
+Medical Heliport of the Federal Republic of Germany 04;H Med FRG 04;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.91
+Medical Heliport of the Federal Republic of Germany 06;H Med FRG 06;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.96
+Medical Heliport of the Federal Republic of Germany 11;H Med FRG 11;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.06
+Medical Heliport of the Federal Republic of Germany 12;H Med FRG 12;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.98
+Medical Heliport of the Federal Republic of Germany 13;H Med FRG 13;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.91
+Medical Heliport of the Federal Republic of Germany 14;H Med FRG 14;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.93
+Medical Heliport of the Federal Republic of Germany 15;H Med FRG 15;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.98
+Medical Heliport of the Federal Republic of Germany 16;H Med FRG 16;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.98
+Medical Heliport of the Federal Republic of Germany 17;H Med FRG 17;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.15
+Medical Heliport of the Federal Republic of Germany 21;H Med FRG 21;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.3
+Medical Heliport of the Federal Republic of Germany 24;H Med FRG 24;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.29
+Medical Heliport of the Federal Republic of Germany 26;H Med FRG 26;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.32
+Medical Heliport of the Federal Republic of Germany 27;H Med FRG 27;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.43
+Medical Heliport of the Federal Republic of Germany 29;H Med FRG 29;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.23
+Medical Heliport of the German Democratic Republic 01;H Med GDR 01;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.62
+Medical Heliport of the German Democratic Republic 02;H Med GDR 02;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.59
+Medical Heliport of the German Democratic Republic 03;H Med GDR 03;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.61
+Medical Heliport of the German Democratic Republic 08;H Med GDR 08;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.68
+Medical Heliport of the German Democratic Republic 09;H Med GDR 09;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.64
+Medical Heliport of the German Democratic Republic 10;H Med GDR 10;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.6
+Medical Heliport of the German Democratic Republic 11;H Med GDR 11;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.86
+Medical Heliport of the German Democratic Republic 12;H Med GDR 12;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.49
+Medical Heliport of the German Democratic Republic 13;H Med GDR 13;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.76
+Medical Heliport of the German Democratic Republic 14;H Med GDR 14;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.74
+Medical Heliport of the German Democratic Republic 16;H Med GDR 16;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.74
+Radarstation Heliport of the Federal Republic of Germany 02;H Radar FRG 02;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.16
+Radarstation Heliport of the German Democratic Republic 01;H Radar GDR 01;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.83
+Radarstation Heliport of the German Democratic Republic 02;H Radar GDR 02;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.86
+Radarstation Heliport of the German Democratic Republic 03;H Radar GDR 03;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.84
+Radarstation Heliport of the German Democratic Republic 04;H Radar GDR 04;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.82
+Radarstation Heliport of the German Democratic Republic 05;H Radar GDR 05;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.91
+Radarstation Heliport of the German Democratic Republic 06;H Radar GDR 06;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.88
+Radarstation Heliport of the German Democratic Republic 07;H Radar GDR 07;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;4.0
+Radarstation Heliport of the German Democratic Republic 08;H Radar GDR 08;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.79
+Radarstation Heliport of the German Democratic Republic 09;H Radar GDR 09;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;3.81
+Hahn Airport;Hahn;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Haina Airport;Haina;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.8
+Hamburg Airport;Hamburg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.93
+Hamburg Finkenwerder Airport;Hamburg Finkenwerder;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.72
+Hannover Airport;Hannover;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.02
+Hasselfelde Airport;Hasselfelde;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.13
+Herrenteich Airport;Herrenteich;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+Hildesheim Airport;Hildesheim;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.14
+Hockenheim Airport;Hockenheim;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+Holzdorf Airport;Holzdorf;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Kammermark Airport;Kammermark;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.06
+Köthen Airport;Kothen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.86
+Laage Airport;Laage;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.91
+Langenselbold Airport;Langenselbold;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.27
+Lärz Airport;Larz;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.69
+Leipzig Halle Airport;Leipzig Halle;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.29
+Leipzig Mockau Airport;Leipzig Mockau;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.39
+Lübeck Airport;Lubeck;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.82
+Lüneburg Airport;Luneburg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.03
+Mahlwinkel Airport;Mahlwinkel;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.09
+Mendig Airport;Mendig;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.83
+Merseburg Airport;Merseburg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Neubrandenburg Airport;Neubrandenburg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.31
+Neuruppin Airport;Neuruppin;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.04
+Northeim Airport;Northeim;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.92
+Ober-Mörlen Airport;Ober-Morlen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.32
+Obermehler Schlotheim Airport;Obermehler Schlotheim;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.75
+Parchim Airport;Parchim;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Peenemünde Airport;Peenemunde;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.23
+Pferdsfeld Airport;Pferdsfeld;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.94
+Pinnow Airport;Pinnow;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.81
+Pottschutthöhe Airport;Pottschutthohe;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.24
+Ramstein Airport;Ramstein;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.94
+Rinteln Airport;Rinteln;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.95
+Schönefeld Airport;Schonefeld;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.94
+Schweinfurt Airport;Schweinfurt;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.96
+Sembach Airport;Sembach;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.94
+Spangdahlem Airport;Spangdahlem;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.17
+Sperenberg Airport;Sperenberg;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.17
+Stendal Airport;Stendal;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.89
+Tegel Airport;Tegel;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.9
+Tempelhof Airport;Tempelhof;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.13
+Templin Airport;Templin;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.95
+Tutow Airport;Tutow;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Uelzen Airport;Uelzen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.11
+Uetersen Airport;Uetersen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.02
+Ummern Airport;Ummern;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.89
+Verden-Scharnhorst Airport;Verden-Scharnhorst;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.38
+Walldorf Airport;Walldorf;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.9
+Waren Vielist Airport;Waren Vielist;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.27
+Werneuchen Airport;Werneuchen;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.03
+Weser Wümme Airport;Weser Wumme;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.29
+Wiesbaden Airport;Wiesbaden;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.05
+Wismar Airport;Wismar;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.85
+Wittstock Airport;Wittstock;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.88
+Worms Airport;Worms;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.72
+Wunstorf Airport;Wunstorf;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.95
+Zerbst Airport;Zerbst;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;0.74
+Zweibrücken Airport;Zweibrucken;nil;en-US-Studio-O;4000.0;3000.0;3.0;0.0;nil;nil;nil;nil;nil;nil;1.03
